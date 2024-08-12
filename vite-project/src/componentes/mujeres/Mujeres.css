@@ -1,0 +1,6 @@
+.contenedorambo{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10%;
+   align-content: center;
+}

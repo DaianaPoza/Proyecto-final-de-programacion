@@ -1,0 +1,17 @@
+.footer{
+    background-color: #000080;
+    color: white;
+    text-align: center;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-between; /* Ajusta según sea necesario */
+    gap: 0,5rem; /* Espacio entre los elementos */
+  }
+  
+  .contact span {
+    flex: 1; /* Opcional: hace que cada span ocupe espacio proporcional */
+  }

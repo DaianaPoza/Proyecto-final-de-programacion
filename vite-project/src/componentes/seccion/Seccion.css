@@ -1,0 +1,28 @@
+.seccion{
+    padding: 2rem;
+    background-color: rgb(211, 228, 245);
+    color: black;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 5px;
+    ;
+}
+
+.seccion img{
+    width: 60%;
+ 
+}
+
+.destacados{
+    font-weight: bold;
+    font-size: 300%;
+    color: #000080;
+    opacity: 0.6;
+}
+
+.contenedorimagen{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10%;
+   align-content: center;
+}

@@ -1,0 +1,9 @@
+@media(min-width: 320px){
+.container{
+width: 95vw;
+margin: 0;
+padding: 2rem;
+font-family: Copperplate, Papyrus, fantasy;
+background-color: Alice azul;
+
+}}
